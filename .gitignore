@@ -1,0 +1,12 @@
+# Backend Python environment
+backend/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Frontend node modules
+frontend/node_modules/
+
+# Optional: VS Code settings
+.vscode/
